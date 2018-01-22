@@ -6,7 +6,8 @@ import javax.json.JsonArray;
 import javax.json.JsonObject;
 import javax.json.JsonReader;
 import javax.json.JsonValue;
- 
+
+// This is a test comment for GIT.
 public class JsonTest {
     public static void main(String[] args) {
         String personJSONData = 
