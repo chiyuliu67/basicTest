@@ -1,7 +1,9 @@
 package basicTest;
 
 
-// this is a commit for Git
+//this is a commit for Git
+//this is the 2nd commit for Git
+
 public class HanoiTower {
 
 	public static void main(String[] args) {
